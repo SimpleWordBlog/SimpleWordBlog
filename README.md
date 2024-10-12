@@ -4,12 +4,6 @@
 
 目前我正处于软件开发的学习阶段，致力于提升编程技能。在这个 GitHub 仓库中，我会分享我的学习历程、个人项目和一些实验作品。虽然现在内容不多，但我期待随着时间的推移，逐步丰富我的项目和贡献。
 
-### 🚀 我在学习的内容
-
-- 编程语言：Python、JavaScript 等
-- 前端技术：HTML、CSS、React
-- 后端技术：Node.js、Django 等
-- 数据库：SQL、MongoDB
 
 ### 📖 当前项目
 
@@ -29,8 +23,3 @@
 - [微博](https://weibo.com/your-profile)
 - [知乎](https://www.zhihu.com/people/your-profile)
 
-欢迎关注我的更新！😊
-
----
-
-感谢访问我的 GitHub 主页！
