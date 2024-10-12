@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @SimpleWordBlog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 你好，这个一个测试README.md
 
-<!---
-SimpleWordBlog/SimpleWordBlog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 关于我
+
+目前我正处于软件开发的学习阶段，致力于提升编程技能。在这个 GitHub 仓库中，我会分享我的学习历程、个人项目和一些实验作品。虽然现在内容不多，但我期待随着时间的推移，逐步丰富我的项目和贡献。
+
+### 🚀 我在学习的内容
+
+- 编程语言：Python、JavaScript 等
+- 前端技术：HTML、CSS、React
+- 后端技术：Node.js、Django 等
+- 数据库：SQL、MongoDB
+
+### 📖 当前项目
+
+- 正在学习 [某技术或框架] 并通过简单项目巩固知识。
+- 进行数据结构与算法的练习。
+
+### 📚 未来计划
+
+- 完成一个从零开始的全栈应用程序。
+- 参与开源项目，贡献代码。
+- 学习云计算、DevOps 和系统设计相关知识。
+
+### 💬 联系我
+
+如果你对技术感兴趣，想要合作或讨论，可以通过以下方式联系我：
+
+- [微博](https://weibo.com/your-profile)
+- [知乎](https://www.zhihu.com/people/your-profile)
+
+欢迎关注我的更新！😊
+
+---
+
+感谢访问我的 GitHub 主页！
